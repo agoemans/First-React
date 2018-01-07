@@ -7,7 +7,7 @@ export const mapData = [
     ]},
     { id: 3, name: "exhibit", rooms: [
         { id: "a", roomName: 'North Hall Exhibit', abbreviation: 'NHE', shape: 'smallCircle', color: 'red' },
-        {id: "b",  roomName: 'North Midway Exhibit', abbreviation: 'NME', shape: 'smallCircle', color: 'black' },
+        { id: "b",  roomName: 'North Midway Exhibit', abbreviation: 'NME', shape: 'smallCircle', color: 'black' },
         { id: "c", roomName: 'South Hall Exhibit', abbreviation: 'SHE', shape: 'smallCircle', color: 'red' }
     ]},
     { id: 4, name: "meeting", rooms: [
